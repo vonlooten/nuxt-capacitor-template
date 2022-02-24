@@ -1,0 +1,9 @@
+{
+	"appId": "com.example.app",
+	"appName": "nuxt-capacitor-test",
+	"webDir": "dist",
+	"bundledWebRuntime": false,
+	"server": {
+		"iosScheme": "nuxtmobile"
+	}
+}
